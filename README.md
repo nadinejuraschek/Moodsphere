@@ -2,9 +2,7 @@
 
 ## A Mental Health Tracker
 
-### UC Davis Coding Boot Camp - Project 1
-
-#### Test Login
+### Test Login
 
 Click "Use Guest Account" on the Log In Page.
 
